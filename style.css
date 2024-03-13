@@ -1,6 +1,6 @@
 *{
-   margin:0;
-   padding: 0;
+   margin: 25px;;
+   padding: 10;
 }
 :root{
     --cor-fundo: rgb(0, 40, 142);
@@ -30,7 +30,7 @@ width: 10%;
     color: #000;
     display: flex;
     align-items: center;
-    padding: 20px 0;
+    padding: 10px 0;
 } 
 .escola-div-conteudo{
     width: ;
