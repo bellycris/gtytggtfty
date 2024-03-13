@@ -3,7 +3,7 @@
    padding: 0;
 }
 :root{
-    --cor-fundo: red;
+    --cor-fundo: rgb(0, 40, 142);
     --cor-fontes:#000000;
 }
 .cabecalho{
