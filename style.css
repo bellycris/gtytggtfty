@@ -33,5 +33,28 @@ width: 10%;
     padding: 10px 0;
 } 
 .escola-div-conteudo{
-    width: ;
+    width:35%;
 }
+.escola{
+background-image: linear-gradient(#00ff00, #ff0303);
+color: var(--cor-fontes);
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0 ;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+   width: 24px;
+}
+.estudante-div{
+   text-align: center;
+} 
