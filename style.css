@@ -36,7 +36,7 @@ width: 10%;
     width:35%;
 }
 .escola{
-background-image: linear-gradient(#f7f7f7, #ffffff);
+background-image: linear-gradient(#a4a4a4, #8b8b8b);
 color: var(--cor-fontes);
 display: flex;
 justify-content:left;
