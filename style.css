@@ -3,7 +3,7 @@
    padding: 10;
 }
 :root{
-    --cor-fundo: rgb(0, 40, 142);
+    --cor-fundo: rgb(192, 244, 133);
     --cor-fontes:#ffffff;
 }
 .cabecalho{
@@ -66,5 +66,5 @@ padding: 24px 0 ;
     margin-left: 20px;
 }
 .estudante{
-    background-color: blue;
+    background-color: rgb(173, 206, 123);
 }
