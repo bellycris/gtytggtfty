@@ -59,7 +59,7 @@ padding: 24px 0 ;
    text-align: center;
    padding: grid;
 } 
-.estudantes-div-todos{
+.estudante-div-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
