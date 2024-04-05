@@ -68,3 +68,11 @@ padding: 24px 0 ;
 .estudante{
     background-color: rgb(234, 255, 0);
 }
+.rodape{
+    background-color: #03156e;
+    text-align: center;
+}
+.rodape-imagem{
+ ----height: 60px
+ ----padding: 12px 0;   
+}
