@@ -57,4 +57,9 @@ padding: 24px 0 ;
 }
 .estudante-div{
    text-align: center;
+   padding: grid;
 } 
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
