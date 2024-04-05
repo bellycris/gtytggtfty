@@ -39,7 +39,7 @@ width: 10%;
 background-image: linear-gradient(#f7f7f7, #ffffff);
 color: var(--cor-fontes);
 display: flex;
-justify-content: center;
+justify-content:left;
 align-items: center;
 padding: 24px 0 ;
 }
